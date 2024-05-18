@@ -4,6 +4,8 @@ A toolkit for staying connected to physical and virtual operating system instanc
 
 # License
 
+A toolkit for staying connected to physical and virtual operating system instances
+
 Copyright (C) 2024 QB Networks
 
 Copyright (C) 2024 Masscollabs Services
